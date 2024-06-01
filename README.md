@@ -6,7 +6,7 @@ Welcome to the Calculator App repository! This project was developed as part of 
 - Intuitive Design: A clean and modern UI for easy navigation and usage.
 - Basic Operations: Supports addition, subtraction, multiplication, and division.
 - Cross-Platform: Compatible with both Android and iOS devices.
-## ✨ Screenshots
+## 📸  Screenshots
 ![WhatsApp Image 2024-06-01 at 11 01 52 PM](https://github.com/nrmeenmohamed/PRODIGY_AD_1/assets/128254998/49238142-7fc0-45ab-9b5a-419f888b5255)
 
 ## Getting Started
